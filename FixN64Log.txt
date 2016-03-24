@@ -3,3 +3,13 @@ Fixing N64 Control Deck (Console / System)
 Current problem: Ports 2 through 4 not recognized.
 Need to open console and check solder joints between mother board and controller ports.
 ------------------------------------------------------------------
+Use a Spudger to get out the expansion pack.
+6 Gamebit screws
+So much hair, so much cleaning...
+Fourteen screws (2 black nearest the bottom)
+Two long screws for cartridge slot
+Two long screws for expansion slot, and one screw near Power LED
+Five screws around heat sink frame
+Finally, four screws, two each for power and AV slots
+Disassembly complete
+-------------------------------------------------------------------
