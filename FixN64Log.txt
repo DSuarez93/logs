@@ -1,0 +1,5 @@
+Fixing N64 Control Deck (Console / System)
+------------------------------------------------------------------
+Current problem: Ports 2 through 4 not recognized.
+Need to open console and check solder joints between mother board and controller ports.
+------------------------------------------------------------------
