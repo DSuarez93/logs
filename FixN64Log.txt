@@ -13,3 +13,10 @@ Five screws around heat sink frame
 Finally, four screws, two each for power and AV slots
 Disassembly complete
 -------------------------------------------------------------------
+Condition of pins under motherboard do not seem obviously wrong
+Added fresh solder to all three pins for each controller port
+-------------------------------------------------------------------
+Strange issue. Power light rarely comes on when fully assembled and connected
+Tried reheating pins to power outlet, but no luck.
+Rusted pins? Loose connection? Bad power pak?
+-------------------------------------------------------------------
